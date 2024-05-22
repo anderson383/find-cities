@@ -1,0 +1,21 @@
+.searcher_content {
+    h1 {
+        font-size: 2rem;
+    }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+
+    & > div {
+        width: 40.625rem;
+    }
+
+    .nearby_cities {
+        margin-top: 2rem;
+        background-color: white;
+        border-radius: 0.5rem;
+        padding: 16px;
+    }
+}

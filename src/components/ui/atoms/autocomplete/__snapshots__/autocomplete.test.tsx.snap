@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test component autocomplete Should render component 1`] = `
+<DocumentFragment>
+  <div
+    class="content"
+  >
+    <div>
+      <svg
+        class="tabler-icon tabler-icon-map-search icon_search"
+        fill="none"
+        height="24"
+        role="icon-search-map"
+        stroke="currentColor"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="1.5"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M11 18l-2 -1l-6 3v-13l6 -3l6 3l6 -3v7.5"
+        />
+        <path
+          d="M9 4v13"
+        />
+        <path
+          d="M15 7v5"
+        />
+        <path
+          d="M18 18m-3 0a3 3 0 1 0 6 0a3 3 0 1 0 -6 0"
+        />
+        <path
+          d="M20.2 20.2l1.8 1.8"
+        />
+      </svg>
+      <svg
+        class="tabler-icon tabler-icon-x icon_delete"
+        fill="none"
+        height="24"
+        role="icon-clear"
+        stroke="currentColor"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        stroke-width="1.5"
+        viewBox="0 0 24 24"
+        width="24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M18 6l-12 12"
+        />
+        <path
+          d="M6 6l12 12"
+        />
+      </svg>
+      <input
+        class="input"
+        name="Search"
+        placeholder="Buscar prueba"
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;
